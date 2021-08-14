@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/Codepen-Waseem-yellow)](https://codepen.io/waseem_farooq)
 
 I'm
-Full Stack Frontend Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include Full-stack development (React, Angular9, ReactJs, HTML5, CSS3,bootstrap, Javascript, Responsive, UX),database(MongoDB)
+Frontend Developer
+Focusing on full-stack development.I have a wide range of skills that include Full-stack development (React, ReactJs, HTML5, CSS3,bootstrap,Javascript,Responsive,Sass,Material,UX),database(MongoDB,nodejs,Express).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/waseemfarooq47/count.svg)
