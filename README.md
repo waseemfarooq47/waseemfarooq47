@@ -1,13 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Waseem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waseemfarooq)](https://www.linkedin.com/in/waseemfarooq)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
+[![Website Badge](https://img.shields.io/badge/WebSite-Waseem-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Waseem-yellow)](https://stackoverflow.com/users/16664269/waseem-farooq)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Frontend Developer
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include Full-stack development (React, Angular9, ReactJs, HTML5, CSS3,bootstrap, Javascript, Responsive, UX),database(MongoDB)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/waseemfarooq47/count.svg)
@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=waseemfarooq47&column=7"/>
   </a>
 </div>
 
