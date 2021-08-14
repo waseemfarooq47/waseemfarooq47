@@ -8,7 +8,7 @@
 **I'm
 Frontend Developer** <br/>
 Focusing on full-stack development.The skills in which I can perform includes <br/>
-**Frontend:** (React, ReactJs, HTML5, CSS3,bootstrap,Javascript,Responsive,Sass,Material,UX)  <br/>
+**Frontend:** (HTML5,CSS3,bootstrap,Javascript,Responsive,React,Sass,Material,UX)  <br/>
 **Database:** (MongoDB,nodejs,Express).
 
 
