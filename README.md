@@ -7,7 +7,9 @@
 
 I'm
 Frontend Developer
-Focusing on full-stack development.The skills in which I can perform includes Frontend: (React, ReactJs, HTML5, CSS3,bootstrap,Javascript,Responsive,Sass,Material,UX) and DATABASE :(MongoDB,nodejs,Express).
+Focusing on full-stack development.The skills in which I can perform includes <br/>
+**Frontend:** (React, ReactJs, HTML5, CSS3,bootstrap,Javascript,Responsive,Sass,Material,UX)  <br/>
+**Database:** (MongoDB,nodejs,Express).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/waseemfarooq47/count.svg)
