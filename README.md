@@ -5,8 +5,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Waseem-red)](https://stackoverflow.com/users/16664269/waseem-farooq)
 [![Website Badge](https://img.shields.io/badge/Codepen-Waseem-yellow)](https://codepen.io/waseem_farooq)
 
-I'm
-Frontend Developer
+**I'm
+Frontend Developer** <br/>
 Focusing on full-stack development.The skills in which I can perform includes <br/>
 **Frontend:** (React, ReactJs, HTML5, CSS3,bootstrap,Javascript,Responsive,Sass,Material,UX)  <br/>
 **Database:** (MongoDB,nodejs,Express).
