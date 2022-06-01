@@ -29,7 +29,7 @@ Languages and Tools:
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> 
 -->
 
-![](https://activity-graph.herokuapp.com/graph?username=waseemfarooq47&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=waseemfarooq47&theme=react-dark&area=false)
 <!--
 **Waseem Farooq/Waseem faroow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
