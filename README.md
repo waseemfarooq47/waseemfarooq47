@@ -31,7 +31,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=waseemfarooq47&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Waseem Farooq/Waseem faroow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
