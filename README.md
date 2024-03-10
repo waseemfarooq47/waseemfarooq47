@@ -28,7 +28,7 @@ I believe in continuous learning and improvement, and I actively engage with the
 <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://m.media-amazon.com/images/I/61np1wbr9pL.png" alt="html" height="80px" width="80px"/> &nbsp;
-<img src="[https://m.media-amazon.com/images/I/61np1wbr9pL.png](https://www.typescripttutorial.net/wp-content/uploads/2020/04/favicon.png)" alt="html" height="80px" width="80px"/> &nbsp;
+<img src="https://www.typescripttutorial.net/wp-content/uploads/2020/04/favicon.png" alt="html" height="80px" width="80px"/> &nbsp;
 
 
 <br/><br/>
