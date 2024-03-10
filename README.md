@@ -25,8 +25,8 @@ I believe in continuous learning and improvement, and I actively engage with the
 <img src="https://gremmedia.hu/storage/app/uploads/public/5ec/06d/83b/5ec06d83b40d4188321695.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://icon-library.com/images/javascript-icon/javascript-icon-17.jpg" alt="html" height="80px" width="80px"/> &nbsp;
-<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" alt="html" height="80px" width="80px"/> &nbsp;
+<img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://m.media-amazon.com/images/I/61np1wbr9pL.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://www.typescripttutorial.net/wp-content/uploads/2020/04/favicon.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="html" height="80px" width="80px"/> &nbsp;
