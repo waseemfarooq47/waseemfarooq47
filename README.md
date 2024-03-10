@@ -1,4 +1,4 @@
-<img src="https://www.shutterstock.com/image-vector/front-end-development-web-application-260nw-1150510607.jpg" width="100%" height="250px"/>
+<img src="https://www.clariontech.com/hubfs/Emerging%20Frontend%20Technologies.png" width="100%" height="250px"/>
 
 
 ### Hi Developers 👋
