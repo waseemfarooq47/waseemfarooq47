@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=600)" width="100%" height="250px"/>
+<img src="https://www.shutterstock.com/image-vector/front-end-development-web-application-260nw-1150510607.jpg" width="100%" height="250px"/>
 
 
 ### Hi Developers 👋
@@ -28,6 +28,8 @@ I believe in continuous learning and improvement, and I actively engage with the
 <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/node-sass.svg" alt="html" height="80px" width="80px"/> &nbsp;
 <img src="https://m.media-amazon.com/images/I/61np1wbr9pL.png" alt="html" height="80px" width="80px"/> &nbsp;
+<img src="[https://m.media-amazon.com/images/I/61np1wbr9pL.png](https://www.typescripttutorial.net/wp-content/uploads/2020/04/favicon.png)" alt="html" height="80px" width="80px"/> &nbsp;
+
 
 <br/><br/>
 **Database:** 
